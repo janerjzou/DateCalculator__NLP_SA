@@ -1,4 +1,3 @@
-
 class HandleDate:
     month_day_list = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
